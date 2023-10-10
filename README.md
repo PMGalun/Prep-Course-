@@ -1,2 +1,1 @@
-# Prep-Course-
-prueba de prep coursehenr
+prueba d como crear un repositorio y clonarlo desde github a la pc
